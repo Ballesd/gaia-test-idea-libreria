@@ -1,3 +1,5 @@
+Se requiere desarrollar un sistema de gestión de una biblioteca. Deberás diseñar una base de datos para almacenar información sobre libros, autores, usuarios y préstamos. Luego, crear una API local que permitirá realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) sobre estos datos.
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
